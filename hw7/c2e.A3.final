@@ -1,0 +1,15 @@
+# Sentence pair (1) source length 4 target length 4 alignment score : 0.471324
+i like reading . 
+NULL ({ }) 我 ({ 1 }) 喜欢 ({ 2 }) 读书 ({ 3 }) 。 ({ 4 }) 
+# Sentence pair (2) source length 5 target length 5 alignment score : 0.375791
+i also like music . 
+NULL ({ }) 我 ({ 1 }) 也 ({ 2 }) 喜欢 ({ 3 }) 音乐 ({ 4 }) 。 ({ 5 }) 
+# Sentence pair (3) source length 4 target length 4 alignment score : 0.167943
+you like reading . 
+NULL ({ }) 你 ({ 1 }) 喜欢 ({ 2 }) 读书 ({ 3 }) 。 ({ 4 }) 
+# Sentence pair (4) source length 5 target length 5 alignment score : 0.253913
+do you like music ? 
+NULL ({ }) 你 ({ 2 }) 喜欢 ({ 3 }) 音乐 ({ 4 }) 吗 ({ 1 }) ？ ({ 5 }) 
+# Sentence pair (5) source length 5 target length 5 alignment score : 0.253913
+do you like football ? 
+NULL ({ }) 你 ({ 2 }) 喜欢 ({ 3 }) 足球 ({ 4 }) 吗 ({ 1 }) ？ ({ 5 }) 
